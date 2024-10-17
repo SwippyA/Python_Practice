@@ -1,0 +1,1 @@
+print("name:shubhankar","prn:1132220260","program:bsc cs","class:tybsc","div:a",sep="\n")

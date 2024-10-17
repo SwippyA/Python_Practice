@@ -1,0 +1,6 @@
+print("xyz".isidentifier())
+print("999".isidentifier())
+print("99a".isidentifier())
+print("_MYNAME".isidentifier())
+print("myname_namer".isidentifier())
+print("1".isidentifier())
